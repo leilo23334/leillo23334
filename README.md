@@ -48,11 +48,12 @@
 
 ## 📊 Statistiques GitHub
 
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?(https://github.com/leilo23334)&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=leilo233344&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?(https://github.com/leilo23334)&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leilo233344&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="160"/>
 
 </div>
 
