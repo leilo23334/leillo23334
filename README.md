@@ -8,11 +8,7 @@
 💻 Toujours en train de créer.  
 🚀 Toujours en évolution.
 
----
 
-<img src="https://i.imgur.com/kp2MaNb.gif" width="240"/>
-
----
 
 </div>
 
