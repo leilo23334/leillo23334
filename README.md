@@ -46,16 +46,19 @@
 
 ---
 
-## 📊 Statistiques GitHub
+## ⚡ Activité
 
+Je travaille activement sur des projets en lien avec :
 
-<div align="center">
+- Le développement Web moderne (HTML, CSS, JavaScript)
+- La création de composants dynamiques en React
+- Les applications ASP.NET avec C#
+- La gestion de bases de données (MySQL, Oracle, SQL Server)
+- Les scripts et automatisations sous Linux
+- L’exploration de concepts liés à l’Intelligence Artificielle
 
-<img src="https://github-readme-stats.vercel.app/api?username=leilo233344&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" height="160"/>
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leilo233344&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" height="160"/>
-
-</div>
 
 ---
 
