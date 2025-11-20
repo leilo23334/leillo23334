@@ -1,4 +1,4 @@
-# 👋 Bonjour, je m'appelle **Lilia Aberkane**
+[# 👋 Bonjour, je m'appelle **Lilia Aberkane**
 
 Étudiante en informatique , passionnée parle développement **Web**, **mobile** et l’**intelligence artificielle**.  
 J’aime donner vie au code, construire des interfaces propres et comprendre en profondeur la logique derrière chaque application.
@@ -49,5 +49,5 @@ Hero avec deux images, design moderne, formulaires d’inscription et login soig
 
 ## 📫 **Contact**
 📧 **Email :** liliaaberkane305@gmail.com  
-🌐 **GitHub :** leillo2334
+🌐 **GitHub :** (https://github.com/leilo23334)
 
