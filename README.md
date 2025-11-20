@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis **Lilia Aberkane**
+# 👋 Bonjour, je m'appelle **Lilia Aberkane**
 
 Étudiante en informatique , passionnée parle développement **Web**, **mobile** et l’**intelligence artificielle**.  
 J’aime donner vie au code, construire des interfaces propres et comprendre en profondeur la logique derrière chaque application.
