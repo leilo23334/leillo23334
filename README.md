@@ -36,10 +36,6 @@
 
 ---
 
-## 🐾 Coin mignon  
-<img src="https://media1.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="180"/>
-
----
 
 ## 📫 Contact  
 📧 **Email :** liliaaberkane305@gmail.com  
